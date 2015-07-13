@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
     <title>FSMVU Ders Program?</title>
 </head>
 <body>
     <h1>FSMVU Ders Program? Uygulamas?</h1>
     <form>
-        <p>Ad: <input ng-value=""> </input> </p>
+        User ID: <input type="text" name="userid"><br>
+        Password: <input type="password" name="pw"><br>
+        <button type="button">Enter</button>
     </form>
 </body>
 </html>
