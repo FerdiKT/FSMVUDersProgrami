@@ -5,7 +5,7 @@
     <title>FSMVU Ders Program?</title>
 </head>
 <body>
-    <h1>FSMVU Ders Program? Uygulamas?</h1>
+    <h1>FSMVU Ders Programı Uygulaması</h1>
     <form>
         User ID: <input type="text" name="userid"><br>
         Password: <input type="password" name="pw"><br>
